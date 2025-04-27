@@ -7,6 +7,7 @@ It is a responsive website which allows the patient , family to get notification
 OUR FUTURE AIM:
 
   -our most important aim is to modify this prototype to be more consumable and interactive system
+  
   -for future , our aim is to convert this system in app form to get it more feasible and easy going.
 
 
